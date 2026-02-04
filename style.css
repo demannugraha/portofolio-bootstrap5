@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #87cefa;
+}
+
+#projects {
+  background-color: #87cefa;
+}
+
+svg {
+  display: block;
+  width: 100%;
+  transform: translateY(1px);
+}
+
+section {
+  padding-top: 5rem;
+}
